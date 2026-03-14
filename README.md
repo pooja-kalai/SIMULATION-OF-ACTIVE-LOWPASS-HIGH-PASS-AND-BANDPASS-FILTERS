@@ -18,7 +18,7 @@ LT-Spice
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 ## LOWPASS FILTER CIRCUIT DIAGRAM 
-
+table
 ## OUTPUT: LOWPASS FILTER
 
 ## HIGHPASS FILTER CIRCUIT DIAGRAM 
